@@ -12,7 +12,8 @@
 
 **GUIDE NAME** : NEELA SANTOSH
 
-# DESCRIPTION: This script performs a comprehensive analysis of Olympic medal trends from 1976 to 2008 using various data visualization techniques. The dataset used contains details about medals won by different countries, categorized by year, athlete, and medal type. By leveraging Python's powerful data manipulation and visualization libraries—**Pandas, Matplotlib, and Seaborn**—this analysis uncovers trends and patterns in Olympic performance across multiple dimensions.
+# DESCRIPTION: 
+This script performs a comprehensive analysis of Olympic medal trends from 1976 to 2008 using various data visualization techniques. The dataset used contains details about medals won by different countries, categorized by year, athlete, and medal type. By leveraging Python's powerful data manipulation and visualization libraries—**Pandas, Matplotlib, and Seaborn**—this analysis uncovers trends and patterns in Olympic performance across multiple dimensions.
 
  **Overview of the Analysis**
 The analysis follows a structured approach, beginning with data preprocessing and then exploring different aspects of Olympic performance using multiple visualization methods, such as **line graphs, bar charts, pie charts, histograms, scatter plots, heatmaps, and stacked area charts**.
